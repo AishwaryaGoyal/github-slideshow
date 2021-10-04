@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Love yourself like you love others.
 Use the left arrow to go back!
